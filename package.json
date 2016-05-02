@@ -4,7 +4,7 @@
   "description": "A node module that does absolutely nothing.",
   "main": "index.js",
   "scripts": {
-    "test": "make test-all",
+    "test": "mocha --harmony",
     "blanket": { 
       "pattern": "//^((?!(node_modules|test)).)*$/",
       "data-cover-flags": {
@@ -16,11 +16,11 @@
     }
   },
   "devDependencies": {
-    "should": "*",
-    "blanket": "*",
-    "travis-cov": "*",
-    "coveralls": "*",
-    "mocha": "*"
+    "co": "*",
+    "co-mocha": "*",
+    "coffee-script": "*",
+    "mocha": "*",
+    "should": "*"
   },  
   "repository": {
     "type": "git",

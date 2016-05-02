@@ -1,4 +1,6 @@
-nietzsche [![Build Status](https://secure.travis-ci.org/frhd/nietzsche.png)](http://travis-ci.org/frhd/nietzsche) [![Coverage Status](https://coveralls.io/repos/frhd/nietzsche/badge.png)](https://coveralls.io/r/frhd/nietzsche)
+nietzsche
+[![Build Status](https://secure.travis-ci.org/frhd/nietzsche.png)](http://travis-ci.org/frhd/nietzsche)
+[![Dependency Status](https://gemnasium.com/frhd/nietzsche.svg)](https://gemnasium.com/frhd/nietzsche)
 =======
 
 ![logo](https://raw.github.com/frhd/nietzsche/master/logo.png)

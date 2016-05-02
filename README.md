@@ -1,6 +1,7 @@
 nietzsche
 [![Build Status](https://secure.travis-ci.org/frhd/nietzsche.png)](http://travis-ci.org/frhd/nietzsche)
-[![Dependency Status](https://gemnasium.com/frhd/nietzsche.svg)](https://gemnasium.com/frhd/nietzsche)
+[![Dependency Status](https://gemnasium.com/badges/github.com/frhd/nietzsche.svg)](https://gemnasium.com/github.com/frhd/nietzsche)
+
 =======
 
 ![logo](https://raw.github.com/frhd/nietzsche/master/logo.png)

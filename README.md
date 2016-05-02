@@ -2,10 +2,6 @@
 
 =======
 
-![logo](https://raw.github.com/frhd/nietzsche/master/logo.png)
-
-Description
-
 Does zero, zip, zilch, nada.
 
 ## Install

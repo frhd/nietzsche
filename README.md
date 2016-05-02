@@ -1,13 +1,11 @@
 nietzsche [![Build Status](https://secure.travis-ci.org/frhd/nietzsche.png)](http://travis-ci.org/frhd/nietzsche) [![Coverage Status](https://coveralls.io/repos/frhd/nietzsche/badge.png)](https://coveralls.io/r/fengmk2/nietzsche)
 =======
-# nietzsche
-Zero, zip, zilch, nada.
 
 ![logo](https://raw.github.com/frhd/nietzsche/master/logo.png)
 
 Description
 
-* jscoverage: [100%](http://fengmk2.github.com/coverage/nietzsche.html)
+Does zero, zip, zilch, nada.
 
 ## Install
 
@@ -20,10 +18,10 @@ $ npm install nietzsche
 ```js
 var nietzsche = require('nietzsche');
 
-nietzsche.foo(function (err) {
-  
-});
+nietzsche.doNothing();
 ```
+
+Neat, right?
 
 ## License 
 

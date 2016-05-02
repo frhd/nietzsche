@@ -4,19 +4,39 @@
   "description": "A node module that does absolutely nothing.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "make test-all",
+    "blanket": { 
+      "pattern": "//^((?!(node_modules|test)).)*$/",
+      "data-cover-flags": {
+        "debug": false
+      }
+    },
+    "travis-cov": {
+      "threshold": 90
+    }
   },
+  "devDependencies": {
+    "should": "*",
+    "blanket": "*",
+    "travis-cov": "*",
+    "coveralls": "*",
+    "mocha": "*"
+  },  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/frhd/nietzsche.git"
   },
+  "engines": {
+    "node": ">= 0.8.0"
+  },  
   "keywords": [
+    "nietzsche",
     "zero",
     "zip",
     "zilch",
     "nada"
   ],
-  "author": "Farhad Omid",
+  "author": "frhd <farhadino@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/frhd/nietzsche/issues"

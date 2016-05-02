@@ -1,0 +1,25 @@
+{
+  "name": "nietzsche",
+  "version": "1.0.0",
+  "description": "A node module that does absolutely nothing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frhd/nietzsche.git"
+  },
+  "keywords": [
+    "zero",
+    "zip",
+    "zilch",
+    "nada"
+  ],
+  "author": "Farhad Omid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frhd/nietzsche/issues"
+  },
+  "homepage": "https://github.com/frhd/nietzsche#readme"
+}

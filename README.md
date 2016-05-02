@@ -7,7 +7,7 @@ Zero, zip, zilch, nada.
 
 Description
 
-* jscoverage: [100%](http://fengmk2.github.com/coverage/nietzsche.html)
+* jscoverage: [100%](http://frhd.github.com/coverage/nietzsche.html)
 
 ## Install
 

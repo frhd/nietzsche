@@ -1,4 +1,4 @@
-nietzsche [![Build Status](https://secure.travis-ci.org/frhd/nietzsche.png)](http://travis-ci.org/frhd/nietzsche)
+# nietzsche [![Build Status](https://secure.travis-ci.org/frhd/nietzsche.png)](http://travis-ci.org/frhd/nietzsche)
 [![Dependency Status](https://gemnasium.com/badges/github.com/frhd/nietzsche.svg)](https://gemnasium.com/github.com/frhd/nietzsche)
 
 =======

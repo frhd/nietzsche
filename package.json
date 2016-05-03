@@ -1,11 +1,11 @@
 {
   "name": "nietzsche",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "A node module that does absolutely nothing.",
   "main": "index.js",
   "scripts": {
     "test": "mocha --harmony",
-    "blanket": { 
+    "blanket": {
       "pattern": "//^((?!(node_modules|test)).)*$/",
       "data-cover-flags": {
         "debug": false
@@ -21,14 +21,14 @@
     "coffee-script": "*",
     "mocha": "*",
     "should": "*"
-  },  
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/frhd/nietzsche.git"
   },
   "engines": {
     "node": ">= 0.8.0"
-  },  
+  },
   "keywords": [
     "nietzsche",
     "zero",

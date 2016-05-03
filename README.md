@@ -1,4 +1,5 @@
-#nietzsche [![Build Status](https://secure.travis-ci.org/frhd/nietzsche.png)](http://travis-ci.org/frhd/nietzsche) [![npm version](https://badge.fury.io/js/nietzsche.svg)](https://badge.fury.io/js/nietzsche) [![Dependency Status](https://gemnasium.com/badges/github.com/frhd/nietzsche.svg)](https://gemnasium.com/github.com/frhd/nietzsche) [![Join the chat at https://gitter.im/frhd/nietzsche](https://badges.gitter.im/frhd/nietzsche.svg)](https://gitter.im/frhd/nietzsche?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+#nietzsche
+[![Build Status](https://secure.travis-ci.org/frhd/nietzsche.png)](http://travis-ci.org/frhd/nietzsche) [![npm version](https://badge.fury.io/js/nietzsche.svg)](https://badge.fury.io/js/nietzsche) [![Dependency Status](https://gemnasium.com/badges/github.com/frhd/nietzsche.svg)](https://gemnasium.com/github.com/frhd/nietzsche) [![Join the chat at https://gitter.im/frhd/nietzsche](https://badges.gitter.im/frhd/nietzsche.svg)](https://gitter.im/frhd/nietzsche?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Does zero, zip, zilch, nada.
 

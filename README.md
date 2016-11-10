@@ -21,6 +21,13 @@ nietzsche.doNothing();
 
 Neat, right?
 
+## Dev - Test
+
+```bash
+$ npm test 
+```
+
+
 ## License 
 
 (The MIT License)

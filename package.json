@@ -19,7 +19,7 @@
     "co": "*",
     "co-mocha": "*",
     "coffee-script": "*",
-    "mocha": "*",
+    "mocha": "^10.2.0",
     "should": "*"
   },
   "repository": {

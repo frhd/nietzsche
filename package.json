@@ -4,7 +4,7 @@
   "description": "A node module that does absolutely nothing.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --harmony",
+    "test": "mocha --harmony --require coffeescript/register test/*.coffee",
     "blanket": {
       "pattern": "//^((?!(node_modules|test)).)*$/",
       "data-cover-flags": {
@@ -16,18 +16,18 @@
     }
   },
   "devDependencies": {
-    "co": "*",
-    "co-mocha": "*",
-    "coffee-script": "*",
-    "mocha": "^10.2.0",
-    "should": "*"
+    "co": "^4.6.0",
+    "co-mocha": "^1.2.2",
+    "coffeescript": "^2.7.0",
+    "mocha": "^11.6.0",
+    "should": "^13.2.3"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/frhd/nietzsche.git"
   },
   "engines": {
-    "node": ">= 0.8.0"
+    "node": ">= 14.0.0"
   },
   "keywords": [
     "nietzsche",
